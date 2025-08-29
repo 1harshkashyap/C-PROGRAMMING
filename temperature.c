@@ -1,4 +1,4 @@
-//C PROGRAMME FOR AREA OF A RECTANGLE OF GIVEN DIMENSIONS
+//C PROGRAMME temperature from celsius to farhen
 #include <stdio.h>
 int main(){
     float a;
